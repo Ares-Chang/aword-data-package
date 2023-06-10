@@ -1,0 +1,20 @@
+{
+  "path": "./catalogs",
+  "catalogs": [
+    {
+      "id": "a",
+      "name": "诗词",
+      "key": "poetry"
+    },
+    {
+      "id": "b",
+      "name": "谚语",
+      "key": "proverb"
+    },
+    {
+      "id": "c",
+      "name": "网络",
+      "key": "network"
+    }
+  ]
+}
